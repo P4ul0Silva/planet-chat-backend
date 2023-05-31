@@ -34,7 +34,6 @@ export class AuthService {
         };
     
         return {
-          ...user,
           accessToken: this.jwtService.sign(payload, { secret: process.env.SUPER_SECRET}),
           refreshToken: this.jwtService.sign(payload, { expiresIn: '7d', secret: process.env.SUPER_SECRET}),
         };
