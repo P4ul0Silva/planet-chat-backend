@@ -1,6 +1,6 @@
 # Planet chat back-end
 
-#Instalação
+# Instalação
 
 faça o clone
 ```bash
