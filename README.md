@@ -19,6 +19,7 @@ O arquivo desse se parecer com isso ( siga as instruçoes em .env.example)
 
 ![image](https://github.com/P4ul0Silva/planet-chat-backend/assets/79770252/3cd7da25-806b-41cb-8dbb-44fd3cdd7205)
 
+# Docker
 ## Inicie um container Postgres
 
 ```bash
