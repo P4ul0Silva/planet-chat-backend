@@ -32,3 +32,6 @@ para inicar o servidor rode:
 ```bash
 yarn start:dev
 ```
+
+![image](https://github.com/P4ul0Silva/planet-chat-backend/assets/79770252/d1effaf5-94a0-42db-8950-a909410bf788)
+
